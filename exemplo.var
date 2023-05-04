@@ -1,0 +1,7 @@
+API_ID = 12345678
+API_HASH = 4ba2aaaxxxb0058cd673133612b884c05d
+BOT_TOKEN = 5123456789:AAEaaIscuqYH8s1li-_GlycNT6QSr6z0Brg
+MONGODB = mongodb+srv://ftp:senhap@ftp.abcdefgh.mongodb.net/?retryWrites=true&w=majority
+CHAT_ID = -10012345678910
+HOST = 0.0.0.0
+PORT = 9021
