@@ -58,6 +58,7 @@ A seguir:
   2. Obtenha o API_ID e API_HASH em [my.telegram.org](https://my.telegram.org).
   3. Crie um banco de dados Mongo DB com o nome de ftp [MongoDB Cloud](https://cloud.mongodb.com/) (ou use seu servidor) e copie a string de conexão.
 Aprenda aqui, [Como Criar gratuitamente sua base de dados Mongo DB] (https://www.youtube.com/watch?v=6b3YH0kK3ig)
+  Caso pretenda utilizar uma quantidade muito grande de arquivos, é preferível criar o seu próprio banco de dados Mongo-db veja o tutorial sobre [Como instalar e Criar sua base de dados Mongo DB no ubuntu 20.04] (https://www.digitalocean.com/community/tutorials/how-to-install-mongodb-on-ubuntu-20-04-pt)
   4. Coloque todas as variáveis em na raiz do bot no arquivo .env
   5. Adicione o bot ao seu canal com direito de administrador.
   6. Execute o arquivo 'python3 get_channel_id.py`, envie o comando `/id` no seu canal para obter o id do canal.
